@@ -9,7 +9,20 @@ User can search the curretn weather of a city using openweathermap's API.
 * error handling for city not found
 
 # Project Structure
-
+```bash
+    MY_WEATHER_APP/
+    |-expo/
+    |-assets/
+    |-node_modules/
+    |-src/
+    |   -|App.js
+    |-.gitignore
+    |-app.json
+    |-babel.config.js
+    |-package-lock.json
+    |-package.json
+    |-README.md
+```
 # Installation
 
 1. clone the repo
@@ -34,6 +47,3 @@ Make sure to replace the value of the apiKey variable in the App.js file with yo
 
 Contributions are welcome! If you would like to contribute to this project, please open a pull request with your changes. 
 Be sure to follow good development practices and test your changes before submitting a pull request.
-
-# Licence
-
